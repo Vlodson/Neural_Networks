@@ -1,0 +1,13 @@
+** endgoal graph embedding for unsupervised learning**
+
+https://distill.pub/2021/gnn-intro/
+
+- 3 nivoa clf: ceo graf, cvor, ivica
+	- graf -> kao image classification
+	- cvor -> pretpostaviti sta taj cvor znaci u nekom grafu
+		  (analogno slici: sta taj piksel radi, analogno tekstu: sta je ta rec (imenica, glagol...))
+	- ivica -> za dva data cvora pretpostaviti da li ima ivicu ili
+		   pretpostaviti koja je vrednost ivice
+
+. razliciti prikazi grafova:
+- 4 tipa:

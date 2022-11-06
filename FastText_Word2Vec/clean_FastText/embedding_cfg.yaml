@@ -1,0 +1,14 @@
+# min length of word-grams
+"ngrams": 4
+
+# context window size
+"context_window": 2
+
+# resulting vector space size
+"embedding_size": 300
+
+# learning rate of the embedding
+"learn_rate": 0.01
+
+# iterations of passing through dataset
+"epochs": 200
